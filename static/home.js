@@ -1,0 +1,1 @@
+alert('The HOME.JS file haslask been loaded')
